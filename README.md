@@ -1,0 +1,2 @@
+# error
+Go error Package
